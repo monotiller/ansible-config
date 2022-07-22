@@ -3,4 +3,4 @@
 
 
 [db]
-172.31.29.43 ansible_ssh_user='ubuntu'
+172.31.27.183 ansible_ssh_user='ubuntu'
