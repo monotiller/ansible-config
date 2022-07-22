@@ -11,8 +11,7 @@
         }
       }
     }
-
-  stages {
+    
     stage('Build') {
       steps {
         script {
@@ -53,7 +52,6 @@
       }
     }
 
-    stages {
     stage('Cleanup') {
       steps {
         script {
